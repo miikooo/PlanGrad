@@ -1,0 +1,5 @@
+type, cria apelido 
+
+list comprehension, cria uma lista de pares 
+
+guards, substituem o if/else 
